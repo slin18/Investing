@@ -11,7 +11,11 @@ from datetime import date, datetime
 from dateutil.relativedelta import relativedelta
 
 base_path = "./stocks"
-api_key = "5d3163eef09b6f2e96c68713738f82d9"
+api_key = "REGISTER_AT_BELOW_LINK"
+
+# You can get your own API key and sign up with the options provided
+# Free option gives you limited requests calls
+# https://financialmodelingprep.com/developer/docs/ 
 
 #future development <- input csv file
 
