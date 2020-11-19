@@ -6,6 +6,7 @@ income_statement_etl.py - extracts data from Financial Prep Modeling! Register f
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 11/18/2020
+
 With the pandemic impacting all our lives, this has forced many of us to reevaluate our lives whether it is our relationships, career, finances, etc. Although I am incredibly lucky in my living situation, I realized that I didn't want to sit in my computer 8 hours every SINGLE day. I would rather spend time with friends and family, pursue different passions, travel, or WHATEVER I want. I believe if I put the work to learn pick high quality businesses, I would be set for life. Jeff Bezos said to Shaq O'Neal that he picks businesses that change lives, so lets do the same!
 
 I am in my mid twenties working in the Bay Area as a data science/engineer. I have read lots of forums, videos, books, and even coded my own investment 101. Just like you, I am learning. 
